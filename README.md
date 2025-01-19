@@ -15,6 +15,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAndrade100&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🌐 Vamos nos conectar?
+### 🌐 Informações de Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/samuel-andrade-de-ara%C3%BAjo-88b920282/)
 
