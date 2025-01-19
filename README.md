@@ -9,13 +9,12 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 
-### 🌐 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/seu-perfil)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red)](https://seu-portfolio.com)
-
 ![](https://github-readme-stats.vercel.app/api?username=SAndrade100&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SAndrade100&theme=tokyonight&hide_border=true)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAndrade100&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+### 🌐 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/samuel-andrade-de-ara%C3%BAjo-88b920282/)
 
