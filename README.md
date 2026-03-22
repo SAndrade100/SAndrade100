@@ -58,5 +58,5 @@ I enjoy clean architecture, good DX, and writing code that other developers love
 ### 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-andrade-de-ara%C3%BAjo-88b920282/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:)
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:andradedearaujo100@gmail.com)
 
